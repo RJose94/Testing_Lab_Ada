@@ -9,7 +9,7 @@ class Greeter:
         if 6 <= hour < 12:
             greeting = 'Buenos dias'
         elif 18 <= hour < 22:
-            greeting = 'Bunas tardes'
+            greeting = 'Buenas tardes'
         else:
             greeting = 'Buenas noches'
 
